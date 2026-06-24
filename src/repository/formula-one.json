@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "equipe": "Mercedes",
+        "sede": "Brackley, Reino Unido",
+        "pilotos": [
+            "George Russell",
+            "Kimi Antonelli"
+        ]
+    },
+    {
+        "id": 2,
+        "equipe": "Ferrari",
+        "sede": "Maranello, Itália",
+        "pilotos": [
+            "Charles Leclerc",
+            "Lewis Hamilton"
+        ]
+    },
+    {
+        "id": 3,
+        "equipe": "McLaren",
+        "sede": "Woking, Reino Unido",
+        "pilotos": [
+            "Lando Norris",
+            "Oscar Piastri"
+        ]
+    },
+    {
+        "id": 4,
+        "equipe": "Red Bull Racing",
+        "sede": "Milton Keynes, Reino Unido",
+        "pilotos": [
+            "Max Verstappen",
+            "Isack Hadjar"
+        ]
+    },
+    {
+        "id": 5,
+        "equipe": "Haas",
+        "sede": "Kannapolis, Estados Unidos",
+        "pilotos": [
+            "Esteban Ocon",
+            "Oliver Bearman"
+        ]
+    },
+    {
+        "id": 6,
+        "equipe": "Racing Bulls",
+        "sede": "Faenza, Itália",
+        "pilotos": [
+            "Liam Lawson",
+            "Arvid Lindblad"
+        ]
+    },
+    {
+        "id": 7,
+        "equipe": "Audi",
+        "sede": "Hinwil, Suíça",
+        "pilotos": [
+            "Nico Hulkenberg",
+            "Gabriel Bortoleto"
+        ]
+    },
+    {
+        "id": 8,
+        "equipe": "Alpine",
+        "sede": "Enstone, Reino Unido",
+        "pilotos": [
+            "Pierre Gasly",
+            "Franco Colapinto"
+        ]
+    },
+    {
+        "id": 9,
+        "equipe": "Williams",
+        "sede": "Grove, Reino Unido",
+        "pilotos": [
+            "Carlos Sainz",
+            "Alexander Albon"
+        ]
+    },
+    {
+        "id": 10,
+        "equipe": "Cadillac",
+        "sede": "Fishers, Indiana, Estados Unidos",
+        "pilotos": [
+            "Sergio Perez",
+            "Valtteri Bottas"
+        ]
+    },
+    {
+        "id": 11,
+        "equipe": "Aston Martin",
+        "sede": "Silverstone, Reino Unido",
+        "pilotos": [
+            "Fernando Alonso",
+            "Lance Stroll"
+        ]
+    }
+]
